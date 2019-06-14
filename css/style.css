@@ -97,7 +97,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/bghead.jpg);
+	background:url(../img/bghead1.jpg); 	
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding:280px 0;
@@ -129,7 +129,7 @@ p{
 	color: #bcbcbc;
 	text-transform: uppercase;
 	font-weight: 400;
-	margin:0 5px 0 0;
+	margin:0 0 0 0;
 	padding:0 0 0 15px;
 }
 .we-create li:first-child{
@@ -184,7 +184,7 @@ color: #fff;
 }
 .main-nav{
 	text-align:center;
-	margin:10px 0 0px;
+	margin:0;
 	padding:0;
 	list-style:none;
 }
@@ -211,7 +211,7 @@ color: #fff;
 }
 
 .small-logo{ 
-	padding:0 32px;
+	padding:0px;
 }
 
 .main-section{
